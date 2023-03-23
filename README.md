@@ -9,4 +9,4 @@ I'm currently working on:
 other findings in the human behavioral research space.
 - Planning a conceptual paper outlining the implications of interlocking behavioral contengencies between biological and
 artificial agents.
-- A <i>"tour de papers"</i> where I implement ideas from seminal papers from scratch roughly following the taxonomy of machine learning field, from linear regression to transformer networks.
+- A <i>"tour de papers"</i> where I implement ideas from seminal papers, from scratch, roughly following the taxonomy of machine learning field, from linear regression to transformer networks.
