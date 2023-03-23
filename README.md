@@ -1,6 +1,6 @@
 <h2>Welcome!</h2>
 
-<p>Hi, I'm Emerson. I'm a behavioral researcher turned artificial behavior researcher. 
+<p>Hi, I'm Emerson. I'm a past human behavioral researcher now focused on artificial behavior (ML/AI Research). 
 I'm interested in machine learning and AI broadly but with a specific academic interest in reinforcement learning techniques
 because of my academic history.</p>
 
