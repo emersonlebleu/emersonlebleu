@@ -5,7 +5,7 @@ I'm interested in machine learning and AI broadly but with a specific academic i
 because of my academic history.</p>
 
 <div align="center">
-	<br>
+	<a href="">
 		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	<br>
+	</a>
 </div>
