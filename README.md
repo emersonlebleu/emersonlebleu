@@ -1,7 +1,10 @@
 <h2>Welcome!</h2>
 
-<p>Hi, I'm Emerson. I'm a past human behavioral researcher academically interested in artificial behavior (ML/AI Research). 
-I'm interested in machine learning and AI broadly. However, because of my academic history I have a particular interest in reinforcement learning techniques. While academic work and research is interesting to me personally. Professionally, I'm proficent programmer generally and can hold my own on full stack web dev, scripting, data, or application buidling projects. Overall, I love to build things and create efficencies through technology in all fields. I don't shy away from learning new technologies and am pretty pragmatic when it comes to my tech stack.</p>
+<h4>Hi, I'm Emerson.</h4>
+
+<p>Professionally, I'm proficent programmer generally and can hold my own on full stack web dev, scripting, data, or application buidling projects. Overall, I love to build things and create efficencies through technology in all fields. I don't shy away from learning new technologies and am pretty pragmatic when it comes to my tech stack.</p>
+
+<p>I'm a past human behavioral researcher academically interested in artificial behavior (ML/AI Research). I'm interested in machine learning and AI broadly. However, because of my academic history I have a particular interest in reinforcement learning techniques. While academic work and research is interesting to me personally.</p>
 
 Currently working on:
 - A prompt engineering project from my consulting gig related to pulling information from web pages, processing, and getting reliable output from LLMs regarding the content.
