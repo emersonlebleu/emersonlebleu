@@ -17,6 +17,6 @@ artificial agents.
 <h4>Interested in:</h4>
 
 - Technology (Computer Science, Data Science, Programming, Machine Learning)
-- Science (Psychology & Natural sciences such as: Biology, Physics, Chemistry)
+- Science (Psychology & Natural Sciences such as: Biology, Physics, Chemistry)
 - Philosophy
 - <i>Especially</i> the intersections of two or more of these. Always happy to talk about ideas from any of them.
