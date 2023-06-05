@@ -1,10 +1,12 @@
-<h2>Welcome!</h2>
-
-<h4>Hi, I'm Emerson.</h4>
+<h2>Hi, I'm Emerson.</h2>
 
 <p>Professionally, I'm proficent programmer generally and can hold my own on full stack web dev, scripting, data, or application buidling projects. Overall, I love to build things and create efficencies through technology in all fields. I don't shy away from learning new technologies and am pretty pragmatic when it comes to my tech stack.</p>
 
 <p>On a <i>slightly</i> less professional note, I'm a past human behavioral researcher with an academic interest artificial behavior <i>(ML/AI research)</i>. I'm interested in machine learning and AI broadly. However, because of my academic history I have a particular interest in reinforcement learning techniques.</p>
+
+<p>In terms of personality, I'm generally a kind, fun to work with, and helpful teammate.</p>
+
+<hr></hr>
 
 <h4>Currently working on:</h4>
 
@@ -13,6 +15,8 @@
 - Planning a conceptual paper outlining the implications of interlocking behavioral contingencies between biological and
 artificial agents.
 - A <i>"tour de papers"</i> where I implement ideas from seminal papers, from scratch, roughly following the taxonomy of machine learning field, from linear regression to transformer networks.
+
+<hr></hr>
 
 <h4>Interested in:</h4>
 
