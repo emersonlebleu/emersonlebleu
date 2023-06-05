@@ -1,9 +1,9 @@
 <h2>Welcome!</h2>
 
-<p>Hi, I'm Emerson. I'm a past human behavioral researcher now focused on artificial behavior (ML/AI Research). 
+<p>Hi, I'm Emerson. I'm a past human behavioral researcher now interested in artificial behavior (ML/AI Research). 
 I'm interested in machine learning and AI broadly. However, because of my academic history I have a particular interest in reinforcement learning techniques.</p>
 
-<p>While academic work and research is interesting to me I'm also a proficent programmer generally and can hold my own on full stack web dev, scripting, data, or application buidling projects. Overall, I love to build things and create efficencies through technology.</p>
+<p>While academic work and research is interesting to me personally, I'm also a proficent programmer generally and can hold my own on full stack web dev, scripting, data, or application buidling projects. Overall, I love to build things and create efficencies through technology in all fields. </p>
 
 Currently working on:
 - Research projects using <a href="https://github.com/emersonlebleu/PS_Model">projective simulation</a> to model derived/arbitrarily-applicable relational responding (DRR/AARR) and
