@@ -4,7 +4,6 @@
 
 <p>Currently I'm the founder and CEO of Susync Software Inc. We are a lean startup working on project managment and communciation tools for clinical trials offices. Like many lean startups we all wear a lot of hats. I often find myself wearing the developer, marketing, operations, and product hats--sometimes all in one day.</p>
 
-<p>I often </p>
 
 <h4>Interested in:</h4>
 
