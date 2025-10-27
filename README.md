@@ -1,8 +1,10 @@
 <h2>Hi, I'm Emerson.</h2>
 
-<p>I'm a software engineer with mostly full stack web development and bioinformatics related experience. Overall, I love to build things and create efficencies through technology in all fields. I don't shy away from learning new technologies and am pretty pragmatic when it comes to my tech stack.</p> 
+<p>I'm a software engineer & founder with mostly full stack web development and bioinformatics related experience. Overall, I love to build things and create efficencies through technology in all fields. I'm more product and customer minded than most developers and really like to put myself in the shoes of the user before I design a feature. I'm most excited when I can see clearly how what I'm making will impact the end user. I don't shy away from learning new technologies and am pretty pragmatic when it comes to my tech stack.</p> 
 
-<p>Currently I'm a full time software developer in the University of Utah human genetics department. Here I've been contributing to & developing web applications for bioinformatics research uses (check out: https://github.com/iobio). Generally, this means building things from idea to deployment independently or mostly independently + a small team.</p>
+<p>Currently I'm the founder and CEO of Susync Software Inc. We are a lean startup working on project managment and communciation tools for clinical trials offices. Like many lean startups we all wear a lot of hats. I often find myself wearing the developer, marketing, operations, and product hats--sometimes all in one day.</p>
+
+<p>I often </p>
 
 <h4>Interested in:</h4>
 
